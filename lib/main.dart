@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: SymptomCheckScreen(),
+      home: SymptomCheckScreen(),   // First screen shown
     );
   }
 }
